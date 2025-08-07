@@ -6,3 +6,14 @@ Conducted A/B testing to evaluate the performance of two marketing campaigns: Fa
 
 
 
+# 🧰 Tools and Technologies
+Python: For data analysis and hypothesis testing.
+
+Pandas: Used for data manipulation.
+
+SciPy: For conducting statistical hypothesis tests.
+
+Matplotlib/Seaborn: For data visualization.
+
+Jupyter Notebook: For developing and presenting the analysis.
+
